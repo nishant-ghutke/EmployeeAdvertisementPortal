@@ -1,0 +1,6 @@
+D:\EAP_New2\Mini-Projects\(EAP) Employee Advertisements Portal\WebApiModel\bin\Debug\WebApiModel.dll
+D:\EAP_New2\Mini-Projects\(EAP) Employee Advertisements Portal\WebApiModel\bin\Debug\WebApiModel.pdb
+D:\EAP_New2\Mini-Projects\(EAP) Employee Advertisements Portal\WebApiModel\obj\Debug\WebApiModel.csproj.AssemblyReference.cache
+D:\EAP_New2\Mini-Projects\(EAP) Employee Advertisements Portal\WebApiModel\obj\Debug\WebApiModel.csproj.CoreCompileInputs.cache
+D:\EAP_New2\Mini-Projects\(EAP) Employee Advertisements Portal\WebApiModel\obj\Debug\WebApiModel.dll
+D:\EAP_New2\Mini-Projects\(EAP) Employee Advertisements Portal\WebApiModel\obj\Debug\WebApiModel.pdb
